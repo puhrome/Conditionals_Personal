@@ -20,8 +20,8 @@ if(dailyCup <= cupMin){
     console.log("Good morning, enjoy your coffee!");
     //print to console if true
 }else{
-    console.log("You need to grind" + " " + (beans * cup)+ "g of beans" + " " + "and boil" + " " +(water * cup)+ "oz of water to make" + " "+ cup + " " + "more cups of coffee!");
+    console.log("You need to grind" + " " + (beans * cup)+ "g of beans" + " " + "and boil" + " " +(water * cup)+ "oz of water to make" + " "+ cup + " " + "cups of coffee!");
     //print to console if false
 }
-alert("You need to grind" + " " + (beans * cup)+ "g of beans" + " " + "and boil" + " " +(water * cup)+ "oz of water to make" + " "+ cup + " " + "more cups of coffee!");
+alert("You need to grind" + " " + (beans * cup)+ "g of beans" + " " + "and boil" + " " +(water * cup)+ "oz of water to make" + " "+ cup + " " + "cup(s) of coffee!");
 
