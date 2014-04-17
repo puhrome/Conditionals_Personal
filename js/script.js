@@ -23,4 +23,5 @@ if(dailyCup <= cupMin){
     console.log("You need to grind" + " " + (beans * cup)+ "g of beans" + " " + "and boil" + " " +(water * cup)+ "oz of water to make" + " "+ cup + " " + "more cups of coffee!");
     //print to console if false
 }
+alert("You need to grind" + " " + (beans * cup)+ "g of beans" + " " + "and boil" + " " +(water * cup)+ "oz of water to make" + " "+ cup + " " + "more cups of coffee!");
 
